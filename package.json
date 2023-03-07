@@ -2,10 +2,12 @@
   "name": "nft-marketplace",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://imyasha.github.io/ntf-marketplace",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-color-extractor": "^1.1.2",
     "react-dom": "^18.2.0",
@@ -15,6 +17,8 @@
     "web-vitals": "^2.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
