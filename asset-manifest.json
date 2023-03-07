@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ntf-marketplace/static/css/main.3c467868.css",
+    "main.js": "/ntf-marketplace/static/js/main.148088d9.js",
+    "static/js/787.0979ab29.chunk.js": "/ntf-marketplace/static/js/787.0979ab29.chunk.js",
+    "index.html": "/ntf-marketplace/index.html",
+    "main.3c467868.css.map": "/ntf-marketplace/static/css/main.3c467868.css.map",
+    "main.148088d9.js.map": "/ntf-marketplace/static/js/main.148088d9.js.map",
+    "787.0979ab29.chunk.js.map": "/ntf-marketplace/static/js/787.0979ab29.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c467868.css",
+    "static/js/main.148088d9.js"
+  ]
+}
